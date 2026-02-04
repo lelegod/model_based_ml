@@ -1,0 +1,16 @@
+{
+  "template": "https://github.com/lelegod/cookiecutter-course-template.git",
+  "commit": "4081730e723679bdc2181f1e23ceb2ca32f81e9b",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Model-Based ML",
+      "project_slug": "model_based_ml",
+      "author_name": "Kyle Nathan Yahya",
+      "python_version": "3.12",
+      "_template": "https://github.com/lelegod/cookiecutter-course-template.git",
+      "_commit": "4081730e723679bdc2181f1e23ceb2ca32f81e9b"
+    }
+  },
+  "directory": null
+}
